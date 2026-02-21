@@ -4,7 +4,7 @@
 # Core dependencies
 python-can==4.2.0              # CAN interface
 python-dateutil==2.8.2         # Date utilities
-numpy==1.24.3                  # Numerical computing
+numpy==1.26.4                  # Numerical computing
 pandas==1.5.3                  # Data analysis
 
 # Security and cryptography
